@@ -1,0 +1,125 @@
+{
+    "animal": {
+      "cats": {
+        "top_10_vaccinations": [
+          "Rabies",
+          "Feline Distemper (Panleukopenia)",
+          "Feline Herpesvirus",
+          "Feline Calicivirus",
+          "Feline Leukemia Virus (FeLV)",
+          "Chlamydia",
+          "Bordetella",
+          "Feline Immunodeficiency Virus (FIV)",
+          "Feline Infectious Peritonitis (FIP)",
+          "Ringworm",
+          "Others"
+        ]
+      },
+      "dogs": {
+        "top_10_vaccinations": [
+          "Rabies",
+          "Canine Distemper",
+          "Parvovirus",
+          "Adenovirus (Canine Hepatitis)",
+          "Parainfluenza",
+          "Leptospirosis",
+          "Bordetella (Kennel Cough)",
+          "Lyme Disease",
+          "Coronavirus",
+          "Canine Influenza",
+              "Others"
+        ]
+      },
+      "rabbits": {
+        "top_10_vaccinations": [
+          "Myxomatosis",
+          "Rabbit Haemorrhagic Disease (RHD1)",
+          "Rabbit Haemorrhagic Disease (RHD2)",
+          "Bordetella",
+          "Pasteurella",
+          "Clostridial Infections",
+          "Encephalitozoon cuniculi",
+          "Treponema paraluis-cuniculi",
+          "Staphylococcus",
+          "Proteus",
+              "Others"
+        ]
+      },
+      "birds": {
+        "top_10_vaccinations": [
+          "Pacheco's Disease",
+          "Polyomavirus",
+          "Psittacosis",
+          "Avian Influenza",
+          "Newcastle Disease",
+          "Avian Pox",
+          "Marek's Disease",
+          "Infectious Bronchitis",
+          "Infectious Bursal Disease",
+          "Egg Drop Syndrome",
+              "Others"
+        ]
+      },
+      "cattle": {
+        "top_10_vaccinations": [
+          "Bovine Viral Diarrhea (BVD)",
+          "Infectious Bovine Rhinotracheitis (IBR)",
+          "Parainfluenza Virus 3 (PI3)",
+          "Bovine Respiratory Syncytial Virus (BRSV)",
+          "Leptospirosis",
+          "Clostridial Diseases",
+          "Brucellosis",
+          "Blackleg",
+          "Pasteurellosis",
+          "Rotavirus and Coronavirus",
+              "Others"
+        ]
+      },
+      "horses": {
+        "top_10_vaccinations": [
+          "Rabies",
+          "Tetanus",
+          "Eastern/Western Equine Encephalomyelitis",
+          "West Nile Virus",
+          "Equine Herpesvirus",
+          "Equine Influenza",
+          "Strangles",
+          "Potomac Horse Fever",
+          "Botulism",
+          "Rotavirus",
+              "Others"
+        ]
+      },
+      "goats": {
+        "top_10_vaccinations": [
+          "Clostridium perfringens Type C & D",
+          "Tetanus",
+          "Caseous Lymphadenitis",
+          "Rabies",
+          "Leptospirosis",
+          "Soremouth",
+          "Chlamydia",
+          "Campylobacter",
+          "Pasteurellosis",
+          "Foot Rot",
+              "Others"
+        ]
+      },
+      "pigs": {
+        "top_10_vaccinations": [
+          "Erysipelas",
+          "Parvovirus",
+          "Leptospirosis",
+          "E. coli",
+          "Mycoplasma",
+          "Swine Influenza",
+          "Porcine Circovirus Type 2 (PCV2)",
+          "Actinobacillus pleuropneumoniae",
+          "Haemophilus parasuis",
+          "PRRS (Porcine Reproductive and Respiratory Syndrome)",
+              "Others"
+        ]
+      }
+    }
+  }
+  
