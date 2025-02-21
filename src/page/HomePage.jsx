@@ -349,7 +349,7 @@ const HomePage = () => {
           </div>
         </div>
       </section> */}
-      {/* <section className=" flex flex-col gap-4 p-12 text-[#324d27]   items-center justify-center text-center w-full">
+      <section className=" flex flex-col gap-4 p-12 text-[#324d27]   items-center justify-center text-center w-full">
         <h1 className="heading text-2xl">Contact Us</h1>
         <p className="text-md">
           If you have any questions or concerns, please feel free to contact us
@@ -361,24 +361,24 @@ const HomePage = () => {
             >
               Name : Sidhant Sharma
               <br />
-              Address : B3 87 Safdarjung Enclave , New Delhi
+              Address : B3/87 Safdarjung Enclave, New Delhi
               <br />
-              Phone no: +918826383394, +919971296073
+              Phone no: +918826383394
               <br />
               Email : contact@furryfriendsalliance.com,
               sidhantsidhant@outlook.com
             </a>
           </div>
           We will get back to you as soon as possible.
-          <a href="mailto:" className="text-[#324d27] font-bold">
+          {/* <a href="mailto:" className="text-[#324d27] font-bold">
             <input
               type="email"
               placeholder="Type your email here"
               className="p-2 rounded  w-full outline-none my-4"
             />
-          </a> 
+          </a>  */}
         </p>
-      </section> */}
+      </section>
 
       <section className=" flex flex-col gap-4 p-2 text-[#324d27]  font-semibold  items-center justify-center text-center w-full">
         Copyright © 2024 Furry Friends Alliance

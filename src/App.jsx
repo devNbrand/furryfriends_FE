@@ -17,6 +17,7 @@ import Profile from "./page/Profile.jsx";
 import EditBowl from "./page/EditBowl.jsx";
 import TeamPage from "./page/TeamPage.jsx";
 const App = () => {
+
   return (
     <>
       <BrowserRouter>
@@ -42,11 +43,11 @@ const App = () => {
               </PrivateRoute>
             }
           />
-            <Route
+          <Route
             path="/dashboard"
             element={
               <PrivateRoute>
-                <Dashboard/>
+                <Dashboard />
               </PrivateRoute>
             }
           />
@@ -58,11 +59,11 @@ const App = () => {
               </PrivateRoute>
             }
           />
-           <Route
+          <Route
             path="/bowl/edit/:bid"
             element={
               <PrivateRoute>
-                 <EditBowl/>
+                <EditBowl />
               </PrivateRoute>
             }
           />
@@ -74,7 +75,7 @@ const App = () => {
               </PrivateRoute>
             }
           />
-          
+
           <Route
             path="/register/:category/:type"
             element={
@@ -83,7 +84,7 @@ const App = () => {
               </PrivateRoute>
             }
           />
-         
+
           {/* <Route
           path="/register/pet/:type"
           element={
@@ -100,11 +101,11 @@ const App = () => {
               </PrivateRoute>
             }
           />
-           <Route
+          <Route
             path="/dashboard/profile"
             element={
               <PrivateRoute>
-                <Profile/>
+                <Profile />
               </PrivateRoute>
             }
           />
